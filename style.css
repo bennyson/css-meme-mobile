@@ -1,0 +1,30 @@
+html{
+    background-color: black;
+}
+#image-1{
+    border: 5px solid white;
+    height: 200px;
+    width: 100%;
+}
+#header-1{
+    color: whitesmoke;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-size: 7px;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+#paragraph-1{
+    color: whitesmoke;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-size: 5px;
+    font-weight: normal;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 4%;
+    margin-bottom: 6%;
+}
